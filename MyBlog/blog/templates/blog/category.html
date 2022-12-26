@@ -1,8 +1,6 @@
 {% extends "blog/base.html" %}
 {% load static %}
-{% block title %}
-{{ object.title }}
-{% endblock %}
+{% block title %}{{ object.title }}{% endblock %}
 {% block content %}
 
     <!-- Blog List Start -->
@@ -29,10 +27,8 @@
         </div>
         {% endfor %}
 
-
         {% include 'blog/inc/pagination.html' %}
     </div>
     <!-- Blog List End -->
-
 
 {% endblock %}
