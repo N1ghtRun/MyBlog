@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f41dcf93-143d-49c1-b2e2-6d0bef23b02b" name="Changes" comment="Sending a rocket to the space">
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/23/blog-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/23/blog-1_Sruxrm3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/23/blog-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/23/blog-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/25/blog-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/26/blog-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/26/blog-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/26/blog-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-1_957CiOg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-2_fyaPkAg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-3_7Y6YrFW.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-4_ZP2eEt3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-5_32KPzQL.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBlog/media/photos/2022/12/27/blog-6_xmLWqTL.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBlog/blog/templates/blog/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog/blog/templates/blog/category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBlog/blog/templates/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyBlog/blog/templates/blog/index.html" afterDir="false" />
+    <list default="true" id="f41dcf93-143d-49c1-b2e2-6d0bef23b02b" name="Changes" comment="ver 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672101838061</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ver 1">
+      <created>1672102408153</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672102408153</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +177,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Sending a rocket to the space" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sending a rocket to the space" />
+    <MESSAGE value="ver 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 1" />
   </component>
 </project>
